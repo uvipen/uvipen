@@ -23,5 +23,5 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 </a>    
 <a href="https://github.com/uvipen/https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=https://github.com/uvipen/Super-mario-bros-PPO-pytorch&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=tokyonight" />
 </a>
