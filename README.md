@@ -6,7 +6,7 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 
 
-![Viet's github stats](https://github-readme-stats.vercel.app/api?username=uvipen&show_icons=true&theme=dark)
+![Viet's github stats](https://github-readme-stats.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -23,7 +23,7 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
