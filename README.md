@@ -61,3 +61,12 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
+</a>    
+<a href="https://github.com/uvipen/Deeplab-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
+</a>
