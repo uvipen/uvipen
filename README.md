@@ -6,7 +6,7 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 
 
-![Viet's github stats](https://github-readme-stats.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight)
+![Viet's github stats](https://github-readme-stats.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
